@@ -1,0 +1,10 @@
+[project]
+name = "business-analytics-portfolio"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy", 
+    "jupyter",
+    "matplotlib"
+]
