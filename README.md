@@ -8,7 +8,7 @@ Comprehensive data breach analysis system with ETL pipeline, statistical analysi
 
 ## Architecture
 
-![Data Breach Pipeline Architecture](architecture-diagram.png)
+![Data Breach Pipeline Architecture](Data%20Breach%20Architecture%20Diagram.png?raw=true)
 
 The pipeline follows a four-stage process: data sourcing, cleaning, loading, and analysis with outputs to database, visualizations, and future dashboard/modeling capabilities.
 
